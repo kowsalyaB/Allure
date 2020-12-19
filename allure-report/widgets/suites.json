@@ -1,0 +1,15 @@
+{
+  "total" : 1,
+  "items" : [ {
+    "uid" : "e065e8c1f56b7c3c56552bac76c26e8c",
+    "name" : "AcurusResume",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 3,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 4
+    }
+  } ]
+}

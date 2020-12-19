@@ -1,0 +1,69 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "setUp",
+    "uid" : "2557b3ea6de8ceb",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1605256056217,
+      "stop" : 1605256056223,
+      "duration" : 6
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "CookiesDelete",
+    "uid" : "ac28a8421eb63dda",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1605259496538,
+      "stop" : 1605259496538,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "openUrl",
+    "uid" : "aee09b3e33e1df62",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1605261891166,
+      "stop" : 1605261891176,
+      "duration" : 10
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "ART001",
+    "children" : [ {
+      "name" : "Feature : Login",
+      "children" : [ {
+        "name" : "Story : Successfully Login",
+        "children" : [ {
+          "name" : "Login to Acurus Resume Tracker Application",
+          "uid" : "899414cb13050ab9",
+          "parentUid" : "2ebd2c5cf2291d993afc8f4c8524eda1",
+          "status" : "passed",
+          "time" : {
+            "start" : 1605266718213,
+            "stop" : 1605266725079,
+            "duration" : 6866
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "2ebd2c5cf2291d993afc8f4c8524eda1"
+      } ],
+      "uid" : "532ca9b0c5d44ebf191c07ad8632966c"
+    } ],
+    "uid" : "2f4fe47041c30bafd3a5092357ca3b9c"
+  } ]
+}

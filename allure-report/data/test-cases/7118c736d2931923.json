@@ -1,0 +1,164 @@
+{
+  "uid" : "7118c736d2931923",
+  "name" : "Login to Acurus Resume Tracker Application",
+  "fullName" : "Acu.ResumeTracker.TestClass.Resume_LoginTest_1.Logintest",
+  "historyId" : "5552c8f635b7c87e075fb3711e5a1d85",
+  "time" : {
+    "start" : 1605263377176,
+    "stop" : 1605263381445,
+    "duration" : 4269
+  },
+  "description" : "Login to Acurus Resume Tracker Application",
+  "descriptionHtml" : "<p>Login to Acurus Resume Tracker Application</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1605263356068,
+      "stop" : 1605263372447,
+      "duration" : 16379
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "openUrl",
+    "time" : {
+      "start" : 1605263372542,
+      "stop" : 1605263376508,
+      "duration" : 3966
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "Login to Acurus Resume Tracker Application",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Login to Resume Tracker",
+      "time" : {
+        "start" : 1605263377258,
+        "stop" : 1605263381411,
+        "duration" : 4153
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "CookiesDelete",
+    "time" : {
+      "start" : 1605263381500,
+      "stop" : 1605263381540,
+      "duration" : 40
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1605263381564,
+      "stop" : 1605263382961,
+      "duration" : 1397
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "Acu.ResumeTracker.TestClass.Resume_LoginTest_1"
+  }, {
+    "name" : "testClass",
+    "value" : "Acu.ResumeTracker.TestClass.Resume_LoginTest_1"
+  }, {
+    "name" : "testMethod",
+    "value" : "Logintest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "AcurusResume"
+  }, {
+    "name" : "suite",
+    "value" : "ResumeTracker"
+  }, {
+    "name" : "subSuite",
+    "value" : "Acu.ResumeTracker.TestClass.Resume_LoginTest_1"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-HR5OPSO"
+  }, {
+    "name" : "thread",
+    "value" : "996@DESKTOP-HR5OPSO.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "feature",
+    "value" : "Feature : Login"
+  }, {
+    "name" : "story",
+    "value" : "Story : Successfully Login"
+  }, {
+    "name" : "epic",
+    "value" : "ART001"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7118c736d2931923.json",
+  "parameterValues" : [ ]
+}

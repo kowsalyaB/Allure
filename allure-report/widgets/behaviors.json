@@ -1,0 +1,15 @@
+{
+  "total" : 4,
+  "items" : [ {
+    "uid" : "2f4fe47041c30bafd3a5092357ca3b9c",
+    "name" : "ART001",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
+}

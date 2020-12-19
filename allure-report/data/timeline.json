@@ -1,0 +1,466 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-HR5OPSO",
+    "children" : [ {
+      "name" : "7296@DESKTOP-HR5OPSO.main(1)",
+      "children" : [ {
+        "name" : "Login to Acurus Resume Tracker Application",
+        "uid" : "e0fc75018b83d9fe",
+        "parentUid" : "964a26889fb94b5577994a3381d5b7db",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1605261598666,
+          "stop" : 1605261598679,
+          "duration" : 13
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "openUrl",
+        "uid" : "3645cbe3a8fb3f90",
+        "parentUid" : "964a26889fb94b5577994a3381d5b7db",
+        "status" : "broken",
+        "time" : {
+          "start" : 1605261598580,
+          "stop" : 1605261598590,
+          "duration" : 10
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "964a26889fb94b5577994a3381d5b7db"
+    }, {
+      "name" : "8844@DESKTOP-HR5OPSO.main(1)",
+      "children" : [ {
+        "name" : "CookiesDelete",
+        "uid" : "dddd1593505d1562",
+        "parentUid" : "62012ae8dd64befe369673cc57202d54",
+        "status" : "broken",
+        "time" : {
+          "start" : 1605258861589,
+          "stop" : 1605258861589,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Logintest",
+        "uid" : "3af366681070a15f",
+        "parentUid" : "62012ae8dd64befe369673cc57202d54",
+        "status" : "broken",
+        "time" : {
+          "start" : 1605258860000,
+          "stop" : 1605258860973,
+          "duration" : 973
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "62012ae8dd64befe369673cc57202d54"
+    }, {
+      "name" : "6444@DESKTOP-HR5OPSO.main(1)",
+      "children" : [ {
+        "name" : "Login to Acurus Resume Tracker Application",
+        "uid" : "b21c2583337ca25b",
+        "parentUid" : "fa4bb17f943c3f0163f867a37bc7a105",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605262127054,
+          "stop" : 1605262136811,
+          "duration" : 9757
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "fa4bb17f943c3f0163f867a37bc7a105"
+    }, {
+      "name" : "8440@DESKTOP-HR5OPSO.main(1)",
+      "children" : [ {
+        "name" : "Logintest",
+        "uid" : "2310abd1d226d17a",
+        "parentUid" : "b9567ee2f20cf9d2425852307670b142",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1605258363752,
+          "stop" : 1605258363774,
+          "duration" : 22
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "openUrl",
+        "uid" : "5f6210c933b3ff49",
+        "parentUid" : "b9567ee2f20cf9d2425852307670b142",
+        "status" : "broken",
+        "time" : {
+          "start" : 1605258363499,
+          "stop" : 1605258363507,
+          "duration" : 8
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b9567ee2f20cf9d2425852307670b142"
+    }, {
+      "name" : "10608@DESKTOP-HR5OPSO.main(1)",
+      "children" : [ {
+        "name" : "Logintest",
+        "uid" : "d2dbc9b9bd018fe7",
+        "parentUid" : "f2a3901bed48dcf98309edf066b54bc1",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1605258236154,
+          "stop" : 1605258236165,
+          "duration" : 11
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "openUrl",
+        "uid" : "a610bf18fc27de59",
+        "parentUid" : "f2a3901bed48dcf98309edf066b54bc1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1605258236098,
+          "stop" : 1605258236103,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f2a3901bed48dcf98309edf066b54bc1"
+    }, {
+      "name" : "148@DESKTOP-HR5OPSO.main(1)",
+      "children" : [ {
+        "name" : "openUrl",
+        "uid" : "5024b180d16a2682",
+        "parentUid" : "1cb8120508d2de170545535d1c07d08c",
+        "status" : "broken",
+        "time" : {
+          "start" : 1605258556858,
+          "stop" : 1605258556866,
+          "duration" : 8
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Logintest",
+        "uid" : "60c98eade501b26b",
+        "parentUid" : "1cb8120508d2de170545535d1c07d08c",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1605258556933,
+          "stop" : 1605258556957,
+          "duration" : 24
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1cb8120508d2de170545535d1c07d08c"
+    }, {
+      "name" : "8664@DESKTOP-HR5OPSO.main(1)",
+      "children" : [ {
+        "name" : "Logintest",
+        "uid" : "e94ee39cc5265b04",
+        "parentUid" : "18ea641a43aa1ea0d53ea8d864b72c98",
+        "status" : "broken",
+        "time" : {
+          "start" : 1605258965410,
+          "stop" : 1605258966462,
+          "duration" : 1052
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "CookiesDelete",
+        "uid" : "2939a36d4159fccc",
+        "parentUid" : "18ea641a43aa1ea0d53ea8d864b72c98",
+        "status" : "broken",
+        "time" : {
+          "start" : 1605258967823,
+          "stop" : 1605258967830,
+          "duration" : 7
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "18ea641a43aa1ea0d53ea8d864b72c98"
+    }, {
+      "name" : "9924@DESKTOP-HR5OPSO.main(1)",
+      "children" : [ {
+        "name" : "Logintest",
+        "uid" : "8baa7072bfebbe35",
+        "parentUid" : "bb97d358b9c9a4f073478446eca1124b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1605257312481,
+          "stop" : 1605257313280,
+          "duration" : 799
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "bb97d358b9c9a4f073478446eca1124b"
+    }, {
+      "name" : "996@DESKTOP-HR5OPSO.main(1)",
+      "children" : [ {
+        "name" : "Login to Acurus Resume Tracker Application",
+        "uid" : "7118c736d2931923",
+        "parentUid" : "2584d65b179e82952f28bd0acc6c98c8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605263377176,
+          "stop" : 1605263381445,
+          "duration" : 4269
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2584d65b179e82952f28bd0acc6c98c8"
+    }, {
+      "name" : "4304@DESKTOP-HR5OPSO.main(1)",
+      "children" : [ {
+        "name" : "Logintest",
+        "uid" : "5345c172c9453e24",
+        "parentUid" : "25d335ae1b3a7fab62cb9533f1c3cf65",
+        "status" : "broken",
+        "time" : {
+          "start" : 1605255693068,
+          "stop" : 1605255694326,
+          "duration" : 1258
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "25d335ae1b3a7fab62cb9533f1c3cf65"
+    }, {
+      "name" : "8796@DESKTOP-HR5OPSO.main(1)",
+      "children" : [ {
+        "name" : "Logintest",
+        "uid" : "1617a25dc06615d",
+        "parentUid" : "9efee308ee97695adefcaac5d98540fd",
+        "status" : "broken",
+        "time" : {
+          "start" : 1605257473853,
+          "stop" : 1605257475101,
+          "duration" : 1248
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9efee308ee97695adefcaac5d98540fd"
+    }, {
+      "name" : "7760@DESKTOP-HR5OPSO.main(1)",
+      "children" : [ {
+        "name" : "Logintest",
+        "uid" : "68474bddc41ec8d7",
+        "parentUid" : "45817e64fcfbe1da9a9a852ca36d698a",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1605256057270,
+          "stop" : 1605256057292,
+          "duration" : 22
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "setUp",
+        "uid" : "2557b3ea6de8ceb",
+        "parentUid" : "45817e64fcfbe1da9a9a852ca36d698a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1605256056217,
+          "stop" : 1605256056223,
+          "duration" : 6
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "45817e64fcfbe1da9a9a852ca36d698a"
+    }, {
+      "name" : "6428@DESKTOP-HR5OPSO.main(1)",
+      "children" : [ {
+        "name" : "Logintest",
+        "uid" : "367a5ea0dcc26eed",
+        "parentUid" : "99c195441aa0954fa53ae92489a2d055",
+        "status" : "broken",
+        "time" : {
+          "start" : 1605255901332,
+          "stop" : 1605255902842,
+          "duration" : 1510
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "99c195441aa0954fa53ae92489a2d055"
+    }, {
+      "name" : "6844@DESKTOP-HR5OPSO.main(1)",
+      "children" : [ {
+        "name" : "openUrl",
+        "uid" : "aee09b3e33e1df62",
+        "parentUid" : "f4b30b8aba110772e43cf6ecb5937f96",
+        "status" : "broken",
+        "time" : {
+          "start" : 1605261891166,
+          "stop" : 1605261891176,
+          "duration" : 10
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Login to Acurus Resume Tracker Application",
+        "uid" : "60590a5537a11378",
+        "parentUid" : "f4b30b8aba110772e43cf6ecb5937f96",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1605261891441,
+          "stop" : 1605261891465,
+          "duration" : 24
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f4b30b8aba110772e43cf6ecb5937f96"
+    }, {
+      "name" : "11800@DESKTOP-HR5OPSO.main(1)",
+      "children" : [ {
+        "name" : "Login to Acurus Resume Tracker Application",
+        "uid" : "899414cb13050ab9",
+        "parentUid" : "a4af8ee43bf0fa58cb734ec4f628bf58",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605266718213,
+          "stop" : 1605266725079,
+          "duration" : 6866
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a4af8ee43bf0fa58cb734ec4f628bf58"
+    }, {
+      "name" : "11096@DESKTOP-HR5OPSO.main(1)",
+      "children" : [ {
+        "name" : "Login to Acurus Resume Tracker Application",
+        "uid" : "ab400c3f61129a6",
+        "parentUid" : "fa3656fef7cc08f92faa90d790d45fd6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605262422943,
+          "stop" : 1605262428920,
+          "duration" : 5977
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "fa3656fef7cc08f92faa90d790d45fd6"
+    }, {
+      "name" : "260@DESKTOP-HR5OPSO.main(1)",
+      "children" : [ {
+        "name" : "Login to Acurus Resume Tracker Application",
+        "uid" : "9bf14daea7d7118c",
+        "parentUid" : "06dd0ee18baad9334895caed28ace5ef",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605261002001,
+          "stop" : 1605261007563,
+          "duration" : 5562
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "06dd0ee18baad9334895caed28ace5ef"
+    }, {
+      "name" : "11316@DESKTOP-HR5OPSO.main(1)",
+      "children" : [ {
+        "name" : "Login to Acurus Resume Tracker Application",
+        "uid" : "9976584bf6aa5531",
+        "parentUid" : "ded4a7b348c7296284c80e35c6d9d655",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605265401331,
+          "stop" : 1605265406244,
+          "duration" : 4913
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ded4a7b348c7296284c80e35c6d9d655"
+    }, {
+      "name" : "5084@DESKTOP-HR5OPSO.main(1)",
+      "children" : [ {
+        "name" : "Logintest",
+        "uid" : "9452baf896481761",
+        "parentUid" : "84f1538c94985b12e66f799596c635f2",
+        "status" : "broken",
+        "time" : {
+          "start" : 1605256307884,
+          "stop" : 1605256308710,
+          "duration" : 826
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "84f1538c94985b12e66f799596c635f2"
+    }, {
+      "name" : "9916@DESKTOP-HR5OPSO.main(1)",
+      "children" : [ {
+        "name" : "CookiesDelete",
+        "uid" : "ac28a8421eb63dda",
+        "parentUid" : "cc8ebca371c3cf9c44c8d7bb1ab82074",
+        "status" : "broken",
+        "time" : {
+          "start" : 1605259496538,
+          "stop" : 1605259496538,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Logintest",
+        "uid" : "546f3350e821f33f",
+        "parentUid" : "cc8ebca371c3cf9c44c8d7bb1ab82074",
+        "status" : "broken",
+        "time" : {
+          "start" : 1605259494489,
+          "stop" : 1605259495929,
+          "duration" : 1440
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "cc8ebca371c3cf9c44c8d7bb1ab82074"
+    } ],
+    "uid" : "a05705fa1ad76d99c85c20a1cc6bb950"
+  } ]
+}

@@ -1,0 +1,41 @@
+[ {
+  "uid" : "2557b3ea6de8ceb",
+  "name" : "setUp",
+  "time" : {
+    "start" : 1605256056217,
+    "stop" : 1605256056223,
+    "duration" : 6
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "aee09b3e33e1df62",
+  "name" : "openUrl",
+  "time" : {
+    "start" : 1605261891166,
+    "stop" : 1605261891176,
+    "duration" : 10
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "ac28a8421eb63dda",
+  "name" : "CookiesDelete",
+  "time" : {
+    "start" : 1605259496538,
+    "stop" : 1605259496538,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "899414cb13050ab9",
+  "name" : "Login to Acurus Resume Tracker Application",
+  "time" : {
+    "start" : 1605266718213,
+    "stop" : 1605266725079,
+    "duration" : 6866
+  },
+  "status" : "passed",
+  "severity" : "critical"
+} ]

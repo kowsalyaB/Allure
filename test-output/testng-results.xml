@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="AcurusResume" duration-ms="27119" started-at="2020-11-13T15:59:15 IST" finished-at="2020-11-13T15:59:42 IST">
+    <groups>
+    </groups>
+    <test name="ResumeTracker" duration-ms="27119" started-at="2020-11-13T15:59:15 IST" finished-at="2020-11-13T15:59:42 IST">
+      <class name="Acu.ResumeTracker.TestClass.Resume_LoginTest_1">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Acu.ResumeTracker.TestClass.Resume_LoginTest_1@344344fa]" name="setUp" is-config="true" duration-ms="16443" started-at="2020-11-13T15:59:15 IST" finished-at="2020-11-13T15:59:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="openUrl()[pri:0, instance:Acu.ResumeTracker.TestClass.Resume_LoginTest_1@344344fa]" name="openUrl" is-config="true" duration-ms="3967" started-at="2020-11-13T15:59:32 IST" finished-at="2020-11-13T15:59:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openUrl -->
+        <test-method status="PASS" signature="Logintest()[pri:0, instance:Acu.ResumeTracker.TestClass.Resume_LoginTest_1@344344fa]" name="Logintest" duration-ms="4467" started-at="2020-11-13T15:59:36 IST" description="Login to Acurus Resume Tracker Application" finished-at="2020-11-13T15:59:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logintest -->
+        <test-method status="PASS" signature="CookiesDelete()[pri:0, instance:Acu.ResumeTracker.TestClass.Resume_LoginTest_1@344344fa]" name="CookiesDelete" is-config="true" duration-ms="43" started-at="2020-11-13T15:59:41 IST" finished-at="2020-11-13T15:59:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CookiesDelete -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Acu.ResumeTracker.TestClass.Resume_LoginTest_1@344344fa]" name="tearDown" is-config="true" duration-ms="1401" started-at="2020-11-13T15:59:41 IST" finished-at="2020-11-13T15:59:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Acu.ResumeTracker.TestClass.Resume_LoginTest_1 -->
+    </test> <!-- ResumeTracker -->
+  </suite> <!-- AcurusResume -->
+</testng-results>

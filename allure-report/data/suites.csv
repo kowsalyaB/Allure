@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Fri Nov 13 14:54:56 IST 2020","Fri Nov 13 14:54:56 IST 2020","0","AcurusResume","ResumeTracker","Acu.ResumeTracker.TestClass.Resume_LoginTest_1","Acu.ResumeTracker.TestClass.Resume_LoginTest_1","CookiesDelete","CookiesDelete",""
+"passed","Fri Nov 13 16:55:18 IST 2020","Fri Nov 13 16:55:25 IST 2020","6866","AcurusResume","ResumeTracker","Acu.ResumeTracker.TestClass.Resume_LoginTest_1","Acu.ResumeTracker.TestClass.Resume_LoginTest_1","Logintest","Login to Acurus Resume Tracker Application","Login to Acurus Resume Tracker Application"
+"broken","Fri Nov 13 13:57:36 IST 2020","Fri Nov 13 13:57:36 IST 2020","6","AcurusResume","ResumeTracker","Acu.ResumeTracker.TestClass.Resume_LoginTest_1","Acu.ResumeTracker.TestClass.Resume_LoginTest_1","setUp","setUp",""
+"broken","Fri Nov 13 15:34:51 IST 2020","Fri Nov 13 15:34:51 IST 2020","10","AcurusResume","ResumeTracker","Acu.ResumeTracker.TestClass.Resume_LoginTest_1","Acu.ResumeTracker.TestClass.Resume_LoginTest_1","openUrl","openUrl",""

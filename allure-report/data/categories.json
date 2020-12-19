@@ -1,0 +1,60 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "timeout: Timed out receiving message from renderer: 19.695\n  (Session info: chrome=86.0.4240.198)\nBuild info: version: '4.0.0-alpha-3', revision: '8c567de6dc'\nSystem info: host: 'DESKTOP-HR5OPSO', ip: '192.168.43.83', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_271'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.198, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\\Users\\KAVITH~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:53161}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: dcd78382e69ea155e255bcde86edc0dc",
+      "children" : [ {
+        "name" : "setUp",
+        "uid" : "2557b3ea6de8ceb",
+        "parentUid" : "c41b5a790758ebc9204406f53debf452",
+        "status" : "broken",
+        "time" : {
+          "start" : 1605256056217,
+          "stop" : 1605256056223,
+          "duration" : 6
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c41b5a790758ebc9204406f53debf452"
+    }, {
+      "name" : "java.lang.NullPointerException",
+      "children" : [ {
+        "name" : "CookiesDelete",
+        "uid" : "ac28a8421eb63dda",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1605259496538,
+          "stop" : 1605259496538,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5592898b36d684905e31486a23088bda"
+    }, {
+      "name" : "timeout: Timed out receiving message from renderer: 19.508\n  (Session info: chrome=86.0.4240.198)\nBuild info: version: '4.0.0-alpha-3', revision: '8c567de6dc'\nSystem info: host: 'DESKTOP-HR5OPSO', ip: '192.168.43.83', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.198, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\\Users\\KAVITH~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:54698}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 4913461d63cf83e0ff2afe3ed742a44d",
+      "children" : [ {
+        "name" : "openUrl",
+        "uid" : "aee09b3e33e1df62",
+        "parentUid" : "85b779f1f65bc8fbedf8f39066bcb805",
+        "status" : "broken",
+        "time" : {
+          "start" : 1605261891166,
+          "stop" : 1605261891176,
+          "duration" : 10
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "85b779f1f65bc8fbedf8f39066bcb805"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}
